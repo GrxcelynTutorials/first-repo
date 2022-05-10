@@ -4,9 +4,9 @@ Here is where you can write a short description of your project. press the small
 Fusce interdum lacus et odio lobortis tincidunt. Vestibulum ac ante tincidunt, semper justo ut, laoreet nunc. Donec convallis eget risus vel scelerisque. Proin consequat lacus eget arcu rutrum sagittis. Nam vulputate mi in eros interdum pretium.
 
 
-## Here is where you can put links to different info sections of your REPO
+## Here is where you can put a link to your website or GithHub pages
 https://this-can-be-a-link-to-your-github-pages-or-website
-## Contents 
+## Contents - Here is where you can put links to different info sections of your REPO
 * [Tech Stack](#stack)
 * [About The App](#app)
 * [Run On Desktop](#run)
