@@ -47,7 +47,10 @@ and that's it! You can now make your own changes and create new functions/featur
 
 
 ## <a name="about" ></a>About The Developer
-### Tell people a little bit about yourself and your code. What inspired you to start coding, what's your background, etc. Just a little short paragraph about yourself to help engage users more. 
+#### Tell people a little bit about yourself and your code. What inspired you to start coding, what's your background, etc. Just a little short paragraph about yourself to help engage users more. 
+Mauris ut velit quis risus aliquam maximus eu ut ligula. Phasellus non arcu pellentesque dui dictum semper at vitae velit. Sed iaculis sapien quis arcu suscipit, eu pellentesque mauris scelerisque. Sed et sem porta, maximus felis at, condimentum ex. Proin sit amet lobortis eros. Nulla fermentum massa mattis felis varius lacinia. Quisque eget nisl sit amet erat mollis sodales. Proin dictum erat id nulla blandit, ut aliquet leo lobortis. Ut sodales eros eu purus feugiat, vel vestibulum massa semper. Ut malesuada lobortis tortor et auctor. Maecenas sagittis nisl diam, non maximus odio ultricies nec. Fusce interdum lacus et odio lobortis tincidunt. Vestibulum ac ante tincidunt, semper justo ut, laoreet nunc. Donec convallis eget risus vel scelerisque. Proin consequat lacus eget arcu rutrum sagittis. Nam vulputate mi in eros interdum pretium.
+
+
 
 
 ## <a name="connect" ></a>Connect
