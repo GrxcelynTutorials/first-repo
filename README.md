@@ -33,7 +33,8 @@ Mauris ut velit quis risus aliquam maximus eu ut ligula. Phasellus non arcu pell
 ```
 You can type out the commands needed here 
 ```
-```this will make the command blocks easy for a usert to copy
+```
+this will make the command blocks easy for a usert to copy
 ```
 ```
 Clone this repo: https://github.com/YourUsername/TheRepoName.git
